@@ -8,12 +8,8 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "circle.ico",
-            "sizes": "48x48"
-        },
-        {
             "src": "icons/circle.svg",
-            "sizes": "72x72 96x96",
+            "sizes": "48x48 72x72 96x96",
             "purpose": "maskable"
         },
         {
