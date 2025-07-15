@@ -1,6 +1,11 @@
 body {
-    margin: 1vh 1vw;
+    margin: 5vh 5vw;
     background-color: #efe;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
 }
 
 ul,
@@ -24,4 +29,11 @@ legend {
 
 li:nth-of-type(even) {
     background-color: inherit;
+}
+
+button {
+    padding: .8rem;
+    background: #cfc;
+    border-radius: 1rem;
+    font-weight: bold;
 }
